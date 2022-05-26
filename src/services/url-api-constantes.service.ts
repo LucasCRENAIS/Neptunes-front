@@ -8,6 +8,6 @@ export class UrlApiConstantes {
     })
   };
 
-  static urlApiplaylists: string = 'https://neptunesapi.azurewebsites.net/playlists'
+  static urlApiplaylists: string = 'https://neptunes-back.herokuapp.com/playlists'
 
 }
